@@ -4,7 +4,8 @@
 #static wesite
 #azure storage account
 #blob storage service
-https://adstatic.z5.web.core.windows.net/
+project link: https://adstatic.z5.web.core.windows.net/
+project video link: https://youtu.be/BfD7xDCw8VI?si=EFRI6fJLCHKahaj3
 
 
 ![Screenshot (267)](https://github.com/aditidangat/aditicafefn/assets/136079980/2631668a-a378-44a8-a3d0-8a98dab84015)
